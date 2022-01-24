@@ -8,8 +8,8 @@ var ground;
 var gameState = "start";
 
 function preload() {
-  ballImg = loadImage("images/basketball.png");
-  ironImg = loadImage("images/ironball.png");
+  ballImg = loadImage("basketball.png");
+  ironImg = loadImage("ironball.png");
 }
 
 function setup() {
